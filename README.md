@@ -13,15 +13,19 @@ Please make sure you have completed the soot survey at:
 
 Please list the urls for the APIs you used:
 
-Summary of Program:
+https://zoo-animal-api.herokuapp.com/
 
-Most Challenging topic in the course:
+https://imsea.herokuapp.com/
+
+Summary of Program: Gives you information of random animal species uses the name of them to image search and give you images of them everytime you run the program.
+
+Most Challenging topic in the course: This. APIs. Took several hours, mostly blank stares.
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+N/A
 
 ## REFERENCES:
- < List any outside resources used >
+N/A
 
 ## MISCELLANEOUS COMMENTS:
 N/A

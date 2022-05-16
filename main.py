@@ -13,7 +13,7 @@ def main():
   print('\nThey live in ' + data['habitat'] + ' in ' + data['geo_range'])
   print('\nThe ' + data['name'] + ' are a type of ' + data['animal_type'] + ' that eat ' + data['diet'] + ' and can live up to ' + data['lifespan'] + ' years.')
   print('\nHere are some images of them:\n=============================')
-  for image in range(15):
+  for image in range(5):
     print(images[image]) if images[image] != images[(image - 1)] else None
   
 main()
