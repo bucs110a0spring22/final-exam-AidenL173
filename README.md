@@ -24,4 +24,4 @@ Most Challenging topic in the course:
  < List any outside resources used >
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+N/A
